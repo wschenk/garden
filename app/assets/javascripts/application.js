@@ -13,7 +13,7 @@
 //= require jquery
 //= require jquery_ujs
 //= require h5bp
-//= require obelisk.min
+//= require obelisk
 //= require dat.gui.min
 //= require game
 // require turbolinks
