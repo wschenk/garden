@@ -12,6 +12,7 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require jquery.mousewheel.min
 //= require h5bp
 //= require obelisk
 //= require dat.gui.min
